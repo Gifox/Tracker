@@ -1,7 +1,12 @@
-<div align="center">
-    <h1>Gifox for Mac</h1>
-    <p>Delightful GIF Recording and Sharing App</p>
-    <p><a href="https://gifox.io"><img src="/asset/logo.png" width="200" height="200"></a></p>
-    <p>This is an issue tracking repository for Gifox, please submit bug reports and feedback <a href="https://github.com/gifox/tracker/issues">here</a>. Alternatively can do this within the app using the megaphone icon on the left bottom, please include your email, so we can get back in touch. For updates and information follows us on Twitter at <a href="https://twitter.com/gifoxapp">@gifoxapp</a> or visit the <a href="https://gifox.io">gifox.io</a>. Peace!
-    <p><img src="/asset/screenshot.png" width="360" height="360"></p>
-</div>
+![Gifox 2 for Mac – Delightful GIF Recording and Sharing App](./asset/hero.png)
+
+This is the issue and feedback tracking repository for [Gifox](https://gifox.io) – a menu bar app that records your screen into animated GIFs.
+
+Issues are difficult to fix if we can’t reproduce them on our end. When something isn’t working as expected it helps to include the app logs – the easiest way to do that is using the in-app contact form, or to tell us:
+
+- What did you try to do and what steps did you take to do that?
+- What did you expect to happen and what happened instead?
+
+If you’d like to follow what’s going on you can [subscribe](https://gifox.io/subscribe) for an occasional newsletter or [follow us](https://twitter.com/gifoxapp) on Twitter!
+
+✌️
